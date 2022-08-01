@@ -24,4 +24,4 @@ Instant gratification is an issue that we as a society are pestered by. The frui
 This is my [GitHub profile](https://github.com/TalahAhmad)
 
 ### Reading Notes (102):
-1. Day 1
+[Day 1](url)
