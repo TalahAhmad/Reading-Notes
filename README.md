@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# This is my reading notes repository.
 
-You can use the [editor on GitHub](https://github.com/TalahAhmad/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+_My name is Talah and I am an aspring software developer._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Growth Mindset
+A growth mindset is the best method of growing and having an assiduous attitude. The challenge of learning is hindered, and once that occurs, we find ourselves giving up. The ability to stay in a growth mindset is a challenge in itself. One may become stagnant and revert to a fixed mindset. There are multiple ways out of this.
+#### Perseverance, gumption traps, and maintaining a growth mindset
+1. **Challenges**: The avoidance of a problem is often human nature. When faced with a challenge, we often fixate on a particular part of the problem instead of trying to root out the main mistake and flow through it. We must remember that a growth mindset entails experimenting with different methods, which will help us find the cause of the challenge.
+2. **Obstacles**: Take a step back from what is troubling you and return in 5-10 minutes. It gives you a new perspective and often helps you reach the root of the problem.
+3. **Effort**: The effort to stop yourself from saying no is always the hardest. In my personal experience, anytime I find myself saying "no, I cannot do this," I always switch it to "yes, I can," which is the first step in the effort.
+4. **Criticism**: Introspect and hold yourself accountable. Make sure you use each day to be better than your last.
+5. **Success of Others**: Do not focus on the negative aspects of a working relationship; focus on the mindset that you are a cog in the machine. You are one part of something bigger than yourself. Be more transparent or helpful. Be whom you would want to interact with.
+#### Growing at work, and outside work too
+Instant gratification is an issue that we as a society are pestered by. The fruits of labor when you work hard are second to none. Short term-frustration usually leads to long-term improvement. The growth mindset is the first step in that process.
 
-### Markdown
+### 3 reminders about growth mindset:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- You may not know now but you'll know later
+- Ask for help
+- You don't know it... yet
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TalahAhmad/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This is my [GitHub profile](https://github.com/TalahAhmad)
