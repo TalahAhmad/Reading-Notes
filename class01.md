@@ -42,7 +42,7 @@
 
 -add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list
 
-#### Links
+### Links
 
 -To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses (e.g., (<https://duckduckgo.com>))
 
