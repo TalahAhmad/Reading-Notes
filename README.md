@@ -28,4 +28,6 @@ This is my [GitHub profile](https://github.com/TalahAhmad)
 
 [Day 2](class02.md)
 
-[Day 3](url)
+[Day 3](class03.md)
+
+[Day 4](class04.md)
