@@ -25,3 +25,4 @@ This is my [GitHub profile](https://github.com/TalahAhmad)
 
 ### Reading Notes (102):
 [Day 1](class01.md)
+[Day 2](class02.md)
