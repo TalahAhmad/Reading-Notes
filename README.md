@@ -19,7 +19,7 @@ Instant gratification is an issue that we as a society are pestered by. The frui
 - Ask for help
 - You don't know it... yet
 
-> Failure is not getting knocked down, it's getting up again -Vince Lombardi
+> Failure is not getting knocked down, it's getting up again -Vince Lombardiii
 
 This is my [GitHub profile](https://github.com/TalahAhmad)
 
