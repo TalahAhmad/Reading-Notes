@@ -1,6 +1,6 @@
 # 02 - The Coder's Computer
 
-### Chooseing a text editor
+### Choosing a text editor
 - allows you to write and manage text that is typed on websites
 - most important features are: 
 1. code completion 
@@ -16,17 +16,22 @@
 #### Intro to Using a Terminal
 - A termina line is a text based interface to the system.
 - Typically presents you with a prompt
-- **Relative path**
+
+**Relative path**
 -A file or directory location relative to where we currently are in the file system.
+
 **Absolute path**
 -A file or directory location in relation to the root of the file system.
+
 **File**
 -obtain information about what type of file a file or directory is.
+
 **ls -a**
 -List the contents of a directory, including hidden files.
 -Everything is a file under Linux // Even directories.
 -Linux is an extensionless system // Files can have any extension they like or none at all.
 -Linux is case sensitive // Beware of silly typos.
+
 - **Basic Commands**
 - PWD: where am I 
 	- print working directory
