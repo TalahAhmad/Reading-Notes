@@ -188,14 +188,11 @@
     Give the <a> element an href attribute, as shown below:
     <a href="">Mozilla Manifesto</a>
     Copy to Clipboard
-    Fill in the value of this attribute with the web address that you want the link to:
-    <a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a>
+    Fill in the value of this attribute with the web address that you want the link to
 
 ## Semantics
 
 ### Semantics in HTML
-
-- <h1>, <header>, <footer>, <time>, etc.
 
 - **Benefits**: 
     Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO)
